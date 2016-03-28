@@ -1,7 +1,7 @@
 name: Hannah Image
 favicon: null
-layout_spectrum: 0.5701638169120997
-typography_spectrum: 0.13999692886136472
+layout_spectrum: 0.23871
+typography_spectrum: 0.47916
 title: Hannah Image
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.0707420117687434
+    - '#ffffff'
+    - '#20396e'
+    - '#c7cdda'
+    - '#2e529e'
+    - '#848b9a'
+  brandStrength: 0.625
   lightness: 0.4761467189528048
   saturation: 0.7380920860450715
   rhythmicContrast: 0.7654254334047437
